@@ -1,0 +1,2 @@
+@echo
+node hexabot.js
